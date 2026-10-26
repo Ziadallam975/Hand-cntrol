@@ -1,0 +1,34 @@
+HAND CONTROL
+Control your laptop with hand gestures, using the webcam.
+
+START
+  Double-click HandControl.exe. A window opens showing your camera with
+  the hand skeleton drawn on your hand.
+
+  The first time, Windows may show "Windows protected your PC".
+  Click "More info", then "Run anyway". (The app is not signed by a
+  company, so Windows does not recognise it yet.)
+
+GESTURES
+  Thumbs up ................. volume up    (keeps going while you hold it)
+  Thumbs down ............... volume down  (keeps going while you hold it)
+  Point right (index) ....... Right arrow
+  Point left (index) ........ Left arrow
+  Pinch (thumb + index) ..... Space bar    (one press per pinch)
+
+  Hold a gesture for a moment before it fires. Keep your hand upright
+  or level: diagonal gestures are ignored on purpose.
+
+GOOD TO KNOW
+  - Arrow keys and space go to the window you clicked last. Click your
+    slides, video or photo viewer once after starting Hand Control.
+  - In the Hand Control window: P pauses, Q or Esc quits.
+  - If it says the camera cannot be opened, close other apps that use
+    the camera (Zoom, Teams, the Camera app) and try again.
+  - Good light helps. Keep your whole hand inside the picture.
+
+PRIVACY
+  The camera picture is processed on your computer only. Nothing is
+  recorded, saved or sent anywhere, and the app does not use the internet.
+
+Windows 10 or 11 (64-bit) and a webcam are required.

@@ -1,0 +1,12 @@
+Hand Control
+Copyright (c) 2026 Mahmoud Wael. All rights reserved.
+
+You may download and use this program free of charge.
+You may not sell it or present it as your own work.
+
+The program is provided "as is", without warranty of any kind.
+Use it at your own risk.
+
+This program includes open-source libraries (MediaPipe, OpenCV, NumPy and
+others). Their licences are in the "licenses" folder and continue to apply
+to those libraries.
